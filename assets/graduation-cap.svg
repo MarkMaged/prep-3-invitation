@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 44" width="64" height="44" role="img" aria-label="قبعة تخرج زخرفية">
+  <path d="M32 2 2 15l30 13 30-13z" fill="#181614"/>
+  <path d="M32 28 12 19v9c0 4 9 9 20 9s20-5 20-9v-9z" fill="#221f1c"/>
+  <line x1="58" y1="15" x2="58" y2="30" stroke="#b6863f" stroke-width="2"/>
+  <circle cx="58" cy="32" r="2.2" fill="#b6863f"/>
+</svg>
