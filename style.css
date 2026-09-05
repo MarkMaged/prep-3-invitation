@@ -183,7 +183,7 @@ body {
   animation-delay: calc(0.55s / var(--dur));
 }
 
-.church-logo {
+.logo {
   width: clamp(46px, 10vw, 66px);
   height: auto;
   display: block;
